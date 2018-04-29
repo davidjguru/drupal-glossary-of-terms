@@ -1,0 +1,9 @@
+Al igual que en otros espacios tecnológicos, en el contexto de Drupal una API sigue siendo -de una manera intuitiva- una colección de funciones que a modo de capa de abstracción, facilitan que un software interactúe con otro software. Ok.
+¿Qué particularidades alcanza entonces en Drupal? ¿Qué matices tiene? Bueno, podríamos decir para empezar que Drupal ha llegado a ser un sistema de propósito general algo complejo, por lo que podemos analizarlo desde diferentes dimensiones, capas o subsistemas: podríamos hablar de Drupal a nivel de módulos, de servicios, de plugins, de clases…y una forma más de comprender Drupal es hacerlo desde la dimensión de sus APIs (sí, en plural).
+En Drupal co-existen una gran cantidad de recursos disponibles para interconectar, ampliar y modificar el funcionamiento de la plataforma, y para facilitar su uso y experimentación, tantas funcionalidades se encuentran agrupadas en bloques temáticos dentro de un contexto determinado y específico: existen APIs para trabajar con Plugins, con Formularios, con Caché…y cada una de ella provee de su propio set de métodos, clases e interfaces para operar sobre ese contexto.
+Algunos ejemplos:
+Form API+: Recursos de Drupal para operar con formularios. Recomendado: serie de artículos sobre la Form API de Drupal+
+Migrate API+: Herramientas para realizar migraciones en Drupal. Recomendado:
+Entity API+: Utilidades para gestionar entidades (ver concepto “Entidad” aquí en este glosario).
+Aquí tienes la lista de APIs disponibles en Drupal+
+Y aquí tienes una lista de APIs y recursos disponibles organizados por su utilidad+.

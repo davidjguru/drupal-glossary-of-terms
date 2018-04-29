@@ -1,0 +1,16 @@
+Versión 1.1.1
+Descripcion: Inicial
+Cambios: No lleva (lanzamiento)
+Control de versiones: 
+https://github.com/davidjguru/drupal-glossary-of-terms
+
+Este documento nace originalmente de la brillante y feliz idea de tomar notas de todo o casi todo para posteriormente intentar recopilarlas de manera unificada. A partir de ahí, su objetivo fundamental es el de intentar ser de utilidad para alguien que quiera realizar una inmersión en el universo de Drupal.
+Si una persona extrae aprovechamiento de este índice de términos, se habrán cumplido los fines principales para los que fue creado.
+Algunos términos son específicos del contexto de Drupal, otros son matizaciones o usos particulares de términos que también se usan en otras plataformas y otros en definitivas son tal cual los reconocemos e identificamos en otros espacios tecnológicos, con la salvedad de que aquí intentamos anclarlos al “suelo material” del trabajo en proyectos basados en Drupal.
+Por comodidad, se mantienen los términos en el lenguaje en el que suele usarse en el día a día: así, se registra “widget” por ser de uso diario y normalizado en inglés, pero se registra “servicio” en castellano por el mismo motivo. Más allá de que el glosario está redactado en castellano, el objetivo del mismo es familiarizarse con los conceptos de la manera más natural y grata posible, por lo que se mantienen sus usos más habituales (al menos en el contexto de quien esto escribe).
+La intención es que el documento crezca y se expanda incorporando cada vez nuevos términos y más elementos útiles para el aprendizaje, por eso se ofrece como material iterativo e incremental, y se procesa además dentro de un repositorio de Github para facilitar su versionado. El cuadro inicial de este post muestra la información de la versión emulando el versionado semántico de software+ que aunque no resulta de aplicación exacta (el cambio en la versión mayor no implica incompatibilidad en este caso), puede ser útil para dar contexto.
+
+Índice de términos
+API
+Composer
+Plugin
